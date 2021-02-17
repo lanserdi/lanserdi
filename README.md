@@ -1,3 +1,3 @@
-Hello~😄
+Hello 😄
 
-[欢迎光临我的个站 >>>](http://www.shuaihuajun.com)
+![帅华君的个人网站](shuaihuajun-logo.jpg)
