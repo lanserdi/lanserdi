@@ -1,3 +1,3 @@
 Hello 😄
 
-![帅华君的个人网站](shuaihuajun-logo.jpg)
+<a href="http://www.shuaihuajun.com"><img src="shuaihuajun-logo.jpg"/></a>
