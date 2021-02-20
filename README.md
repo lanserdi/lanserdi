@@ -1,1 +1,1 @@
-<a href="http://www.shuaihuajun.com" target="_blank"><img src="github-shuaihuajun-logo.png"/></a>
+<a href="http://www.shuaihuajun.com" target="_blank"><img src="projects.png"/></a>
